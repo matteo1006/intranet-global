@@ -1,0 +1,10 @@
+{
+    "name": "phpmailer/phpmailer",
+    "description": "phpmailer",
+    "autoload": {
+        "psr-4": {
+            "Phpmailer\\Phpmailer\\": "src/"
+        }
+    },
+    "require": {}
+}
